@@ -9,6 +9,8 @@ Primary the goal is of two-types:
 
 Note: there is cross-over for both of these.
 
+*All libraries listed are free and open-source. See individual libraries for details, of course.*
+
 # Types
 
 ## Diagrams
@@ -29,19 +31,19 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * Business & IT Diagram (B&IT) - used in business and IT modelling
 
 #### C
-* Carroll diagram
-* Cartogram
+* [Carroll diagram](https://github.com/christabor/jquery.cayley/)
+* [Cartogram](https://github.com/mbostock/d3/wiki/Gallery)
 * Category theory diagrams
 * Cause-and-effect diagram
 * Circuit diagram
-* Class diagram - from UML 1/9
+* [Class diagram - from UML 1/9](http://jumly.tmtk.net/)
 * Collaboration diagram - from UML 2.0
 * Communication diagram - from UML 2.0
 * Commutative diagram
 * Comparison diagram
 * Component diagram - from UML 3/9
 * Composite structure diagram - from UML 2.0
-* Concept map
+* [Concept map](https://github.com/mbostock/d3/wiki/Gallery)
 * Constellation diagram
 * Context diagram
 * Control flow diagram
@@ -53,8 +55,8 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * Data model diagram
 * Data flow diagram
 * Data structure diagram
-* Dendrogram
-* Dependency diagram
+* [Dendrogram](https://github.com/mbostock/d3/wiki/Gallery)
+* [Dependency diagram](https://github.com/mbostock/d3/wiki/Gallery)
 * Deployment diagram - from UML 9/9
 * Dot and cross diagram
 * Double bubble map - used in education
@@ -91,7 +93,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * IDEF0
 * IDEF1 (entity relations)
 * Interaction overview diagram - from UML
-* Ishikawa diagram
+* [Ishikawa diagram](http://bl.ocks.org/bollwyvl/9239214)
 
 #### J
 * Jackson diagram
@@ -108,14 +110,14 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 #### M
 * Martin ERD
 * Message Sequence Chart
-* Mind map - used for learning, brainstorming, memory, visual thinking and problem solving
+* [Mind map - used for learning, brainstorming, memory, visual thinking and problem solving](https://github.com/mbostock/d3/wiki/Gallery)
 * Minkowski spacetime diagram
 
 #### N
 * N2
 * Nassi-Shneiderman diagram or structogram - a representation for structured programming
 * Nomogram
-* [Network connection]
+* Network connection
 
 #### O
 * Object diagram - from UML 2/9
@@ -167,20 +169,19 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * TQM Diagram
 
 #### U
-* UML diagram - Unified Modeling Language (used in software engineering)
+* [UML diagram - Unified Modeling Language (used in software engineering)](http://jumly.tmtk.net/)
 * Use case diagram - from UML 5/9 and SysML
 
 #### V
 * Value Stream Mapping
 * Venn diagram
-* Voronoi diagram
+* [Voronoi diagram](https://github.com/mbostock/d3/)
 
 #### W
 * Warnier-Orr
 
 #### Y
 * Yourdon-Coad - see Edward Yourdon, used in software engineering
-
 
 ## Data visualization
 * [Box Plots](https://github.com/mbostock/d3/wiki/Gallery)
@@ -198,7 +199,6 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Waterfall chart](https://github.com/mbostock/d3/wiki/Gallery)
 * [Non-contiguous Cartogram](https://github.com/mbostock/d3/wiki/Gallery)
 * [Chord Diagram](https://github.com/mbostock/d3/wiki/Gallery)
-* [Denrdogram](https://github.com/mbostock/d3/wiki/Gallery)
 * [Timeseries](https://github.com/mbostock/d3/wiki/Gallery)
 * [Circle Packing](https://github.com/mbostock/d3/wiki/Gallery)
 * [Stream Graph](https://github.com/mbostock/d3/wiki/Gallery)
@@ -206,7 +206,6 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Sunburst](https://github.com/mbostock/d3/wiki/Gallery)
 * [Node-link tree](https://github.com/mbostock/d3/wiki/Gallery)
 * [Treemap](https://github.com/mbostock/d3/wiki/Gallery)
-* [Voronoi diagram](https://github.com/mbostock/d3/wiki/Gallery)
 * [Hierarchical edge bundling](https://github.com/mbostock/d3/wiki/Gallery)
 * [Parallel coordinates](https://github.com/mbostock/d3/wiki/Gallery)
 * [Scatterplot](https://github.com/mbostock/d3/wiki/Gallery)
@@ -214,12 +213,10 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Chloropleth](https://github.com/mbostock/d3/wiki/Gallery)
 * [Hive plot](https://github.com/mbostock/d3/wiki/Gallery)
 * [Co-occurence matrix](https://github.com/mbostock/d3/wiki/Gallery)
-* [Chord diagram](https://github.com/mbostock/d3/wiki/Gallery)
 * [Word cloud](https://github.com/mbostock/d3/wiki/Gallery)
 * [Graph](https://github.com/mbostock/d3/wiki/Gallery)
 * [Hexagonal binning](https://github.com/mbostock/d3/wiki/Gallery)
 * [Contour plot](https://github.com/mbostock/d3/wiki/Gallery)
 * [Maps](https://github.com/mbostock/d3/wiki/Gallery)
-
-#### Geometry/shapes
-* [D3.geometer](https://github.com/christabor/d3.geometer)
+* [Slope graph](https://github.com/mbostock/d3/wiki/Gallery)
+* [Geometry examples](https://github.com/christabor/d3.geometer)
