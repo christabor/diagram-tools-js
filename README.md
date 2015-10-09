@@ -15,9 +15,6 @@ Note: there is cross-over for both of these.
 
 ## Diagrams
 
-#### Cayley tables
-* [jquery.cayley](https://github.com/christabor/jquery.cayley/)
-
 Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 
 #### A
@@ -34,6 +31,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Carroll diagram](https://github.com/christabor/jquery.cayley/)
 * [Cartogram](https://github.com/mbostock/d3/wiki/Gallery)
 * Category theory diagrams
+* [Cayley table](https://github.com/christabor/jquery.cayley/)
 * Cause-and-effect diagram
 * Circuit diagram
 * [Class diagram - from UML 1/9](http://jumly.tmtk.net/)
@@ -65,22 +63,22 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 #### E
 * Entity-Relationship diagram (ERD)
 * Event-driven process chain
-* Euler diagram
+* [Euler diagram](https://github.com/benfred/venn.js/)
 * Eye diagram - a diagram of a received telecommunications signal
 * Express-G
 * Extended Functional Flow Block Diagram (EFFBD)
 
 #### F
 * Family tree
-* Feynman diagram
-* Flow chart
+* [Feynman diagram](http://photino.github.io/jquery-feyn/)
+* [Flow chart](https://adrai.github.io/flowchart.js/)
 * Flow process chart
 * Flow diagram
 * Fusion diagram
 * Free body diagram
 
 #### G
-* Gantt chart - shows the timing of tasks or activities (used in project management)
+* [Gantt chart](https://github.com/dk8996/Gantt-Chart)
 * Graph
     * [Sigmajs](http://sigmajs.org/)
     * [D3](https://github.com/mbostock/d3/wiki/Gallery)
@@ -113,7 +111,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 #### M
 * Martin ERD
 * [Message Sequence Chart](https://bramp.github.io/js-sequence-diagrams/)
-* [Mind map - used for learning, brainstorming, memory, visual thinking and problem solving](https://github.com/mbostock/d3/wiki/Gallery)
+* [Mind map](https://github.com/mbostock/d3/wiki/Gallery)
 * Minkowski spacetime diagram
 * Molecular Orbital diagram
 
@@ -141,6 +139,9 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * Pourbaix diagram
 * Process flow diagram or PFD - used in chemical engineering
 * Program structure diagram
+
+#### Q
+* [Quadrant diagram](https://github.com/christabor/jquery.quadgram)
 
 #### R
 * Radar chart
@@ -178,7 +179,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 
 #### V
 * Value Stream Mapping
-* Venn diagram
+* [Venn diagram](https://github.com/benfred/venn.js/)
 * [Voronoi diagram](https://github.com/mbostock/d3/)
 
 #### W
