@@ -112,9 +112,10 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 
 #### M
 * Martin ERD
-* Message Sequence Chart
+* [Message Sequence Chart](https://bramp.github.io/js-sequence-diagrams/)
 * [Mind map - used for learning, brainstorming, memory, visual thinking and problem solving](https://github.com/mbostock/d3/wiki/Gallery)
 * Minkowski spacetime diagram
+* Molecular Orbital diagram
 
 #### N
 * N2
