@@ -81,6 +81,9 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 
 #### G
 * Gantt chart - shows the timing of tasks or activities (used in project management)
+* Graph
+    * [Sigmajs](http://sigmajs.org/)
+    * [D3](https://github.com/mbostock/d3/wiki/Gallery)
 * Grotrian diagram
 * Goodman diagram - shows the fatigue data (example: for a wind turbine blades)
 
