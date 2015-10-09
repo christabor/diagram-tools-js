@@ -144,11 +144,11 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Quadrant diagram](https://github.com/christabor/jquery.quadgram)
 
 #### R
-* Radar chart
+* [Radar chart](https://github.com/alangrafu/radar-chart-d3)
 * Radial Diagram
 * Requirement Diagram Used in SysML
 * Rich Picture
-* R-diagram
+* Randolph diagram
 
 #### S
 * Sankey diagram - represents material, energy or cost flows with quantity proportional arrows in a process network.
@@ -159,9 +159,9 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * Spider chart
 * Spray diagram
 * SSADM - Structured Systems Analysis and Design Methodology (used in software engineering)
-* Star chart/Celestial sphere
+* [Star chart/Celestial sphere](https://github.com/kevinschaul/d3-star-plot)
 * State diagram are used for state machines in software engineering from UML 7/9
-* Swim lane
+* [Swim lane](http://bl.ocks.org/bunkat/1962173)
 * Syntax diagram used in software engineering to represent a context-free grammar
 * Systems Biology Graphical Notation - a graphical notation used in diagrams of biochemical and cellular processes studied in Systems biology
 * System context diagram
