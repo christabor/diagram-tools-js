@@ -145,6 +145,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 
 #### R
 * [Radar chart](https://github.com/alangrafu/radar-chart-d3)
+    - [Other styles](http://bl.ocks.org/nbremer/21746a9668ffdf6d8242)
 * Radial Diagram
 * Requirement Diagram Used in SysML
 * Rich Picture
@@ -156,7 +157,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * Sequence diagram from UML 8/9 and SysML
 * SDL/GR diagram - Specification and Description Language. SDL is a formal language used in computer science.
 * Smith chart
-* Spider chart
+* [Spider chart](https://github.com/alangrafu/radar-chart-d3)
 * Spray diagram
 * SSADM - Structured Systems Analysis and Design Methodology (used in software engineering)
 * [Star chart/Celestial sphere](https://github.com/kevinschaul/d3-star-plot)
