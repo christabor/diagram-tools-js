@@ -32,7 +32,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Cartogram](https://github.com/mbostock/d3/wiki/Gallery)
 * Category theory diagrams
 * [Cayley table](https://github.com/christabor/jquery.cayley/)
-* Cause-and-effect diagram
+* [Cause-and-effect diagram](http://bl.ocks.org/bollwyvl/9239214)
 * Circuit diagram
 * [Class diagram - from UML 1/9](http://jumly.tmtk.net/)
 * Collaboration diagram - from UML 2.0
@@ -133,6 +133,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * Petri net - shows the structure of a distributed system as a directed bipartite graph with annotations
 * [Phylogenetic tree](http://bl.ocks.org/kueda/1036776)
     - [Alternate](https://www.jasondavies.com/tree-of-life/)
+    - [Alternate 2](http://bl.ocks.org/mbostock/c034d66572fd6bd6815a)
 * Piping and instrumentation diagram (P&ID)
 * Phase diagram used to present solid/liquid/gas information
 * Plant Diagram
