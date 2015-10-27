@@ -83,6 +83,12 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
     * [Sigmajs](http://sigmajs.org/)
     * [D3](https://github.com/mbostock/d3/wiki/Gallery)
 * Grotrian diagram
+
+
+* ----------------------------------LAST STOPPPED HERE---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 * Goodman diagram - shows the fatigue data (example: for a wind turbine blades)
 
 #### H
@@ -104,7 +110,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * Kinematic diagram
 
 #### L
-* Ladder diagram
+* [Ladder diagram](http://sourceforge.net/projects/mblogic/)
 * Line of balance
 * Link grammar diagram
 
@@ -186,7 +192,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Voronoi diagram](https://github.com/mbostock/d3/)
 
 #### W
-* Warnier-Orr
+* [Warnier-Orr](https://github.com/christabor/d3.warnier_orr)
 
 #### Y
 * Yourdon-Coad - see Edward Yourdon, used in software engineering
