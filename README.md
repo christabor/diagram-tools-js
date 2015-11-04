@@ -166,7 +166,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * SDL/GR diagram - Specification and Description Language. SDL is a formal language used in computer science.
 * Smith chart
 * [Spider chart](https://github.com/alangrafu/radar-chart-d3)
-* Spray diagram
+* [Spray diagram](https://github.com/mbostock/d3/wiki/Gallery)
 * SSADM - Structured Systems Analysis and Design Methodology (used in software engineering)
 * [Star chart/Celestial sphere](https://github.com/kevinschaul/d3-star-plot)
 * State diagram are used for state machines in software engineering from UML 7/9
