@@ -83,12 +83,6 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
     * [Sigmajs](http://sigmajs.org/)
     * [D3](https://github.com/mbostock/d3/wiki/Gallery)
 * Grotrian diagram
-
-
-* ----------------------------------LAST STOPPPED HERE---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 * Goodman diagram - shows the fatigue data (example: for a wind turbine blades)
 
 #### H
@@ -161,9 +155,11 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 
 #### S
 * Sankey diagram - represents material, energy or cost flows with quantity proportional arrows in a process network.
+* Schematic diagram
 * Sentence diagram - represents the grammatical structure of a natural language sentence.
-* Sequence diagram from UML 8/9 and SysML
 * SDL/GR diagram - Specification and Description Language. SDL is a formal language used in computer science.
+* Sequence diagram from UML 8/9 and SysML
+* Shear and moment diagram
 * Smith chart
 * [Spider chart](https://github.com/alangrafu/radar-chart-d3)
 * [Spray diagram](https://github.com/mbostock/d3/wiki/Gallery)
@@ -234,3 +230,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Maps](https://github.com/mbostock/d3/wiki/Gallery)
 * [Slope graph](https://github.com/mbostock/d3/wiki/Gallery)
 * [Geometry examples](https://github.com/christabor/d3.geometer)
+
+## Also of interest:
+
+http://techslides.com/over-1000-d3-js-examples-and-demos
