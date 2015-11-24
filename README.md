@@ -168,7 +168,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * State diagram are used for state machines in software engineering from UML 7/9
 * [Swim lane](http://bl.ocks.org/bunkat/1962173)
 * Syntax diagram used in software engineering to represent a context-free grammar
-* Systems Biology Graphical Notation - a graphical notation used in diagrams of biochemical and cellular processes studied in Systems biology
+* [Systems Biology Graphical Notation - a graphical notation used in diagrams of biochemical and cellular processes studied in Systems biology](https://github.com/iVis-at-Bilkent/sbgnviz-js)
 * System context diagram
 * System structure
 * Systematic layout planning
