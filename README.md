@@ -37,7 +37,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Class diagram - from UML 1/9](http://jumly.tmtk.net/)
 * Collaboration diagram - from UML 2.0
 * Communication diagram - from UML 2.0
-* Commutative diagram
+* [Commutative diagram](https://github.com/sonoisa/XyJax)
 * Comparison diagram
 * Component diagram - from UML 3/9
 * Composite structure diagram - from UML 2.0
