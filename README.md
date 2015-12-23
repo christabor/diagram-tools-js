@@ -234,5 +234,5 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 
 ## Also of interest:
 
-http://techslides.com/over-1000-d3-js-examples-and-demos
-https://github.com/mbostock/d3/wiki/Plugins
+* http://techslides.com/over-1000-d3-js-examples-and-demos
+* https://github.com/mbostock/d3/wiki/Plugins
