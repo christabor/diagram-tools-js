@@ -48,6 +48,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Contour diagram](https://github.com/d3/d3-plugins/tree/master/geom/contour)
 * Cordier diagram
 * Cross functional flowchart
+* Cube (3-axes) diagram
 
 #### D
 * Data model diagram
@@ -154,7 +155,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * Randolph diagram
 
 #### S
-* Sankey diagram - represents material, energy or cost flows with quantity proportional arrows in a process network.
+* [Sankey diagram - represents material, energy or cost flows with quantity proportional arrows in a process network.](https://github.com/d3/d3-plugins/tree/master/sankey)
 * Schematic diagram
 * Sentence diagram - represents the grammatical structure of a natural language sentence.
 * SDL/GR diagram - Specification and Description Language. SDL is a formal language used in computer science.
@@ -234,3 +235,4 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 ## Also of interest:
 
 http://techslides.com/over-1000-d3-js-examples-and-demos
+https://github.com/mbostock/d3/wiki/Plugins
