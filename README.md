@@ -157,6 +157,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 #### S
 * [Sankey diagram - represents material, energy or cost flows with quantity proportional arrows in a process network.](https://github.com/d3/d3-plugins/tree/master/sankey)
 * Schematic diagram
+* [SCXML](https://github.com/jbeard4/SCION)
 * Sentence diagram - represents the grammatical structure of a natural language sentence.
 * SDL/GR diagram - Specification and Description Language. SDL is a formal language used in computer science.
 * Sequence diagram from UML 8/9 and SysML
@@ -166,7 +167,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Spray diagram](https://github.com/mbostock/d3/wiki/Gallery)
 * SSADM - Structured Systems Analysis and Design Methodology (used in software engineering)
 * [Star chart/Celestial sphere](https://github.com/kevinschaul/d3-star-plot)
-* State diagram are used for state machines in software engineering from UML 7/9
+* [State diagram are used for state machines in software engineering from UML 7/9](https://github.com/jbeard4/SCION)
 * [Swim lane](http://bl.ocks.org/bunkat/1962173)
 * Syntax diagram used in software engineering to represent a context-free grammar
 * [Systems Biology Graphical Notation - a graphical notation used in diagrams of biochemical and cellular processes studied in Systems biology](https://github.com/iVis-at-Bilkent/sbgnviz-js)
