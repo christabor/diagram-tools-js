@@ -30,7 +30,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 #### C
 * [Carroll diagram](https://github.com/christabor/jquery.cayley/)
 * [Cartogram](https://github.com/mbostock/d3/wiki/Gallery)
-* Category theory diagrams
+* [Category theory diagrams](https://github.com/sonoisa/XyJax)
 * [Cayley table](https://github.com/christabor/jquery.cayley/)
 * [Cause-and-effect diagram](http://bl.ocks.org/bollwyvl/9239214)
 * Circuit diagram
