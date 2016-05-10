@@ -72,6 +72,10 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 #### F
 * Family tree
 * [Feynman diagram](http://photino.github.io/jquery-feyn/)
+* Finite State Machine
+    * [Machina](http://machina-js.org/)
+    * [JS FSM](https://github.com/jakesgordon/javascript-state-machine)
+    * [Stately](https://github.com/fschaefer/Stately.js)
 * [Flow chart](https://adrai.github.io/flowchart.js/)
 * Flow process chart
 * Flow diagram
@@ -108,12 +112,14 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Ladder diagram](http://sourceforge.net/projects/mblogic/)
 * Line of balance
 * Link grammar diagram
+* Loedel diagram
 
 #### M
 * Martin ERD
 * [Message Sequence Chart](https://bramp.github.io/js-sequence-diagrams/)
 * [Mind map](https://github.com/mbostock/d3/wiki/Gallery)
 * Minkowski spacetime diagram
+* [Modal logic tree](https://github.com/rkirsling/modallogic)
 * Molecular Orbital diagram
 
 #### N
@@ -130,6 +136,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 #### P
 * Package diagram from UML 4/9 and SysML
 * Parametric diagram from SysML
+* Penrose diagram
 * PERT
 * Petri net - shows the structure of a distributed system as a directed bipartite graph with annotations
 * [Phylogenetic tree](http://bl.ocks.org/kueda/1036776)
