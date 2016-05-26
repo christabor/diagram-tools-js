@@ -3,10 +3,8 @@ A list of front-end (javascript/*script) tools for creating diagrams and data vi
 
 ## What types of tools are listed?
 
-Primary the goal is of two-types:
-
-1. Diagrams
-2. Data visualization
+1. Diagram tools
+2. Data visualization tools
 
 Note: there is cross-over for both of these.
 
