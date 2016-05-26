@@ -91,7 +91,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * Goodman diagram - shows the fatigue data (example: for a wind turbine blades)
 
 #### H
-* Hasse diagram
+* [Hasse diagram](https://bl.ocks.org/emeeks/38b7f4552e63c88f2c3afe76efda0b58)
 * HIPO diagram
 
 #### I
