@@ -32,7 +32,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Category theory diagrams](https://github.com/sonoisa/XyJax)
 * [Cayley table](https://github.com/christabor/jquery.cayley/)
 * [Cause-and-effect diagram](http://bl.ocks.org/bollwyvl/9239214)
-* Circuit diagram
+* [Circuit diagram](https://github.com/tracespace/pcb-stackup)
 * [Class diagram - from UML 1/9](http://jumly.tmtk.net/)
 * Collaboration diagram - from UML 2.0
 * Communication diagram - from UML 2.0
