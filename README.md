@@ -31,6 +31,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Cartogram](https://github.com/mbostock/d3/wiki/Gallery)
 * [Category theory diagrams](https://github.com/sonoisa/XyJax)
 * [Cayley table](https://github.com/christabor/jquery.cayley/)
+* [Causal loop](https://github.com/shoetten/biovis.git)
 * [Cause-and-effect diagram](http://bl.ocks.org/bollwyvl/9239214)
 * [Circuit diagram](https://github.com/tracespace/pcb-stackup)
 * [Class diagram - from UML 1/9](http://jumly.tmtk.net/)
