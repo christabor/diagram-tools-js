@@ -157,6 +157,7 @@ Taken from [Wikipedia](en.wikipedia.org/wiki/Diagram):
 * [Radar chart](https://github.com/alangrafu/radar-chart-d3)
     - [Other styles](http://bl.ocks.org/nbremer/21746a9668ffdf6d8242)
 * Radial Diagram
+* [Railroad diagram](https://kevinpt.github.io/syntrax/)
 * Requirement Diagram Used in SysML
 * Rich Picture
 * Randolph diagram
